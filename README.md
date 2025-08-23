@@ -1,13 +1,42 @@
-##
+# 👋 Olá, eu sou o Jorge Luiz  
 
-![JorgeLzz's Stats](https://github-readme-stats.vercel.app/api?username=JorgeLzz&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
+💻 Assistente de T.I. e desenvolvedor apaixonado por **Python**, **Django** e **TypeScript**.  
+🚀 Atualmente focado em **back-end, bancos de dados e automação**.  
+📊 Interesse em **dados, ETL/ELT e otimização de queries SQL**.  
+🎯 Objetivo: construir soluções que unam **tecnologia + eficiência**.  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeLzz&layout=compact&theme=radical)
+---
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![ReactRouter](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white
-)
+## 🧰 Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![Remix](https://img.shields.io/badge/Remix-000000?logo=remix&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 
+---
 
+## 📌 Projetos em Destaque
+- **OrganizaAí (5S)** — Sistema web para auditoria 5S em empresas (Django + Remix).  
+- **Bot de Trading** — Automação de operações de criptomoedas com Python.  
+- **ETL Pipeline** — Extração e tratamento de dados sintéticos + SQLite + dashboard.
+
+> 👉 Confira mais no [meu portfólio](https://SEUSITE.com)
+
+---
+
+## 📈 Status do Perfil
+![Jorge GitHub stats](https://github-readme-stats.vercel.app/api?username=Jorgelzz&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jorgelzz&layout=compact&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=Jorgelzz&theme=radical&date_format=j%2Fn%5B%2FY%5D)
+
+---
+
+## 📬 Contato
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEULINKEDIN)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:seuemail@exemplo.com)
+
+---
