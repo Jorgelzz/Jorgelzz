@@ -30,8 +30,10 @@
 
 ## 📈 Status do Perfil
 ![Jorge GitHub stats](https://github-readme-stats.vercel.app/api?username=Jorgelzz&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jorgelzz&layout=compact&theme=radical)
+
 ![GitHub Streak](https://streak-stats.demolab.com?user=Jorgelzz&theme=radical&date_format=j%2Fn%5B%2FY%5D)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jorgelzz&layout=compact&theme=radical)
 
 ---
 
