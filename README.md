@@ -36,7 +36,7 @@
 ---
 
 ## 📬 Contato
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/in/jorge-luiz-lima-de-oliveira)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jorge-luiz-lima-de-oliveira)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jorgeluiz2027@hotmail.com)
 
 ---
