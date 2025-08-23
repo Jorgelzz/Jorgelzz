@@ -24,7 +24,7 @@
 - **Bot de Trading** — Automação de operações de criptomoedas com Python.  
 - **ETL Pipeline** — Extração e tratamento de dados sintéticos + SQLite + dashboard.
 
-> 👉 Confira mais no [meu portfólio](https://SEUSITE.com)
+<!-- > 👉 Confira mais no [meu portfólio](https://SEUSITE.com) -->
 
 ---
 
