@@ -21,7 +21,6 @@
 
 ## 📌 Projetos em Destaque
 - **OrganizaAí (5S)** — Sistema web para auditoria 5S em empresas (Django + Remix).  
-- **Bot de Trading** — Automação de operações de criptomoedas com Python.  
 - **ETL Pipeline** — Extração e tratamento de dados sintéticos + SQLite + dashboard.
 
 <!-- > 👉 Confira mais no [meu portfólio](https://SEUSITE.com) -->
