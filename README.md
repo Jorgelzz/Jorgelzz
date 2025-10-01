@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Jorge Luiz  
 
-💻 Assistente de T.I. e desenvolvedor apaixonado por **Python**, **Django** e **TypeScript**.  
+💻 Desenvolvedor com base principal em **Python**, **Django** e **TypeScript**.  
 🚀 Meu foco é o **Fullstack**.
 
 ---
