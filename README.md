@@ -1,9 +1,7 @@
 # 👋 Olá, eu sou o Jorge Luiz  
 
 💻 Assistente de T.I. e desenvolvedor apaixonado por **Python**, **Django** e **TypeScript**.  
-🚀 Atualmente focado em **back-end, bancos de dados e automação**.  
-📊 Interesse em **dados, ETL/ELT e otimização de queries SQL**.  
-🎯 Objetivo: construir soluções que unam **tecnologia + eficiência**.  
+🚀 Meu foco é o **Fullstack**.
 
 ---
 
