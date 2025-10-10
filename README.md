@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Jorge Luiz  
+# Olá, eu sou o Jorge Luiz  
 
 💻 Desenvolvedor com base principal em **Python**, **Django** e **TypeScript**.  
 🚀 Meu foco é o **Fullstack**.
