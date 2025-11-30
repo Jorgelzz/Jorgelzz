@@ -22,12 +22,6 @@
 - **ETL Pipeline** — Extração e tratamento de dados sintéticos + SQLite + dashboard.
 
 <!-- > 👉 Confira mais no [meu portfólio](https://SEUSITE.com) -->
-
----
-
-## 📈 Status do Perfil
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jorgelzz&layout=compact&theme=radical)
-
 ---
 
 ## 📬 Contato
