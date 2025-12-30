@@ -19,7 +19,6 @@
 
 ## 📌 Projetos em Destaque
 - **OrganizaAí (5S)** — Sistema web para auditoria 5S em empresas (Django + React).  
-- **ETL Pipeline** — Extração e tratamento de dados sintéticos + SQLite + dashboard.
 
 <!-- > 👉 Confira mais no [meu portfólio](https://SEUSITE.com) -->
 ---
