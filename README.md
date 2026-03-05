@@ -1,11 +1,7 @@
-# Olá, eu sou o Jorge Luiz  
-
-💻 Desenvolvedor com base principal em **Python**, **Django** e **TypeScript**.  
-🚀 Meu foco é o **Fullstack**.
-
+# hi i like to program
 ---
 
-## 🧰 Tech Stack
+## Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
@@ -17,13 +13,7 @@
 
 ---
 
-## 📌 Projetos em Destaque
-- **OrganizaAí (5S)** — Sistema web para auditoria 5S em empresas (Django + React).  
-
-<!-- > 👉 Confira mais no [meu portfólio](https://SEUSITE.com) -->
----
-
-## 📬 Contato
+## 📬 Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jorge-luiz-lima-de-oliveira)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jorgeluiz2027@hotmail.com)
 
